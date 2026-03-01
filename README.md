@@ -27,42 +27,6 @@ This project features real-time rendering, lane-based movement, collision detect
 1. Clone the repository or download the source files.  
 2. Compile the source code (`main.cpp`) using your preferred IDE or command line.  
 3. Run the resulting executable to start the game.
-
-### Project Structure
-File Name
-
-Description
-
-main.cpp
-
-Main application source code
-
-carracinggame.cbp
-
-Code::Blocks project file
-
-carracinggame.depend
-
-Dependency configuration file
-
-carracinggame.layout
-
-Project layout file
-
-.gitignore
-
-Git ignore configuration
-
-LICENSE
-
-Project license file
-
-README.md
-
-This documentation file
-
-
-
 ---
 
 ## Team
